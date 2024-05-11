@@ -5,7 +5,10 @@ const test = (array) =>{
     if(a<b) return-1
 });
     
-        return result[0]
+        return  result
+        
+        // another method
+        // Math.min(...array)
   
 }
 
